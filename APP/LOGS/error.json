@@ -1,0 +1,119 @@
+[
+    {
+        "time": "2026-03-22 13:50:34",
+        "level": "EXCEPTION",
+        "class": "UserDashboard",
+        "function": "loop",
+        "message": "'OrderManager' object has no attribute 'create_order'",
+        "line": 733,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-22 14:53:36",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "[Errno 2] No such file or directory: 'APP/DATABASE/combo.json'",
+        "line": 168,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-23 00:01:25",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'AuthMenu' object has no attribute 'manager_dashboard'",
+        "line": 339,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 00:02:22",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'AuthMenu' object has no attribute 'manager_dashboard'",
+        "line": 339,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 00:33:43",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "redirect_dashboard",
+        "message": "'DashboardManager' object has no attribute 'open_dashboard'",
+        "line": 322,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 00:50:42",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "redirect_dashboard",
+        "message": "'DashboardManager' object has no attribute 'open_dashboard'",
+        "line": 322,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 00:51:25",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "redirect_dashboard",
+        "message": "'DashboardManager' object has no attribute 'open_dashboard'",
+        "line": 322,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 00:51:58",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "redirect_dashboard",
+        "message": "'DashboardManager' object has no attribute 'open_dashboard'",
+        "line": 322,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-23 15:24:53",
+        "level": "EXCEPTION",
+        "class": "PaymentManager",
+        "function": "pay",
+        "message": "invalid literal for int() with base 10: 'None'",
+        "line": 339,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BILLING\\payment_menu.py"
+    },
+    {
+        "time": "2026-03-23 16:33:13",
+        "level": "EXCEPTION",
+        "class": "BookingManager",
+        "function": "book_table",
+        "message": "'PaymentManager' object has no attribute 'update_bill'",
+        "line": 1463,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BOOKING\\booking_manager.py"
+    },
+    {
+        "time": "2026-03-23 22:26:17",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "name 'admin_order_menu' is not defined",
+        "line": 740,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-24 09:29:54",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'staff_dashboard'",
+        "line": 644,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-24 09:36:37",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'inventory_dashboard'",
+        "line": 640,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    }
+]
