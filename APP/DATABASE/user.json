@@ -1,0 +1,74 @@
+[
+    {
+        "id": "534342",
+        "name": "Abhishek Kumar",
+        "username": "ak@123",
+        "password": "123456",
+        "phone": "+911234567890",
+        "email": "ak@123gmail.com",
+        "aadhar": "123456789009",
+        "pan": "ABCDE1234F",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": null,
+        "company": null,
+        "qualification": "10th",
+        "languages": [
+            "Hindi"
+        ],
+        "computer_skills": null,
+        "bike": "n",
+        "license": "n",
+        "delivery": false,
+        "role": "chef"
+    },
+    {
+        "id": "567818",
+        "name": "Abhishek Kumar",
+        "username": "amk@123",
+        "password": "123456",
+        "phone": "+911234432112",
+        "email": "amk@12gmail.com",
+        "aadhar": "949860123443",
+        "pan": "ADBCE3214G",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": null,
+        "company": null,
+        "qualification": "10th",
+        "languages": [
+            "Hindi"
+        ],
+        "computer_skills": "Excel,Ms word",
+        "bike": "y",
+        "license": "y",
+        "delivery": true,
+        "role": "inventory_staff"
+    },
+    {
+        "id": "834761",
+        "name": "Sumit Kumar",
+        "username": "sk@123",
+        "password": "123456",
+        "phone": "+911234432154",
+        "email": "sk@123gmail.com",
+        "aadhar": "123443214567",
+        "pan": "ABCDF1221F",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": 2,
+        "company": "Zomato",
+        "qualification": "10th",
+        "languages": [
+            "Hindi"
+        ],
+        "computer_skills": "Excel",
+        "bike": "y",
+        "license": "y",
+        "delivery": true,
+        "role": "staff"
+    }
+]
