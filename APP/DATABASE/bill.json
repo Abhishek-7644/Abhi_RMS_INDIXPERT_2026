@@ -1,0 +1,118 @@
+[
+    {
+        "bill_id": 7696,
+        "user": "abhishek",
+        "mobile": "+917644064581",
+        "gst_number": "22AAAAA0000A1Z5",
+        "created_at": "28-03-2026 08:20 PM",
+        "subtotal": 400,
+        "payment_status": "Paid",
+        "items": [],
+        "table_booking": [
+            {
+                "id": 8739,
+                "table": "T3",
+                "slot": "\ud83c\udf05 Morning",
+                "date": "30-03-2026",
+                "price": 200,
+                "status": "Confirmed"
+            },
+            {
+                "id": 1008,
+                "table": "T3",
+                "slot": "\ud83c\udf05 Morning",
+                "date": "31-03-2026",
+                "price": 200,
+                "status": "Confirmed"
+            }
+        ],
+        "payment_method": "QR",
+        "final_total": 472.0,
+        "paid_at": "28-03-2026 08:55 PM",
+        "refund_details": [
+            {
+                "type": "order",
+                "order_id": 796402,
+                "amount": 0
+            },
+            {
+                "type": "order",
+                "order_id": 436864,
+                "amount": 0
+            }
+        ]
+    },
+    {
+        "bill_id": 3367,
+        "user": "abhishek",
+        "mobile": "+917644064581",
+        "gst_number": "22AAAAA0000A1Z5",
+        "created_at": "28-03-2026 08:56 PM",
+        "subtotal": 0,
+        "payment_status": "Refunded",
+        "items": [],
+        "table_booking": [],
+        "order_ids": [
+            796402
+        ],
+        "order_type": "ONLINE",
+        "delivery_type": "HOME DELIVERY",
+        "city": "patna",
+        "payment_method": "UPI-Mobile",
+        "upi_mobile": "7987654309",
+        "final_total": 118.0,
+        "paid_at": "28-03-2026 08:57 PM",
+        "refund_details": [
+            {
+                "type": "order",
+                "order_id": 796402,
+                "amount": 100
+            },
+            {
+                "type": "order",
+                "order_id": 436864,
+                "amount": 0
+            }
+        ]
+    },
+    {
+        "bill_id": 3433,
+        "user": "abhishek",
+        "mobile": "+917644064581",
+        "gst_number": "22AAAAA0000A1Z5",
+        "created_at": "28-03-2026 09:00 PM",
+        "subtotal": 75,
+        "payment_status": "Paid",
+        "items": [
+            {
+                "order_id": 590196,
+                "name": "Kheer",
+                "qty": 3,
+                "price": 25
+            }
+        ],
+        "table_booking": [],
+        "order_ids": [
+            436864,
+            590196
+        ],
+        "order_type": "ONLINE",
+        "delivery_type": "HOME DELIVERY",
+        "city": "patna",
+        "refund_details": [
+            {
+                "type": "order",
+                "order_id": 796402,
+                "amount": 0
+            },
+            {
+                "type": "order",
+                "order_id": 436864,
+                "amount": 200
+            }
+        ],
+        "payment_method": "QR",
+        "final_total": 88.5,
+        "paid_at": "28-03-2026 09:33 PM"
+    }
+]
