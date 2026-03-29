@@ -4,7 +4,7 @@ from rich.panel import Panel
 from APP.AUTH.signup import Signup
 from APP.AUTH.login import Login
 from APP.LOGS.error_handler import error_handler
-
+from APP.DASHBOARD.dashboard_manager import DashboardManager
 
 
 console = Console(force_terminal=True, color_system="truecolor")
@@ -14,6 +14,7 @@ class AuthMenu:
     def __init__(self):
         self.signup = Signup()
         self.login = Login()
+        self.dashboard = DashboardManager()
 
     def start(self):
         while True:
@@ -33,6 +34,9 @@ class AuthMenu:
 
                 elif ch == "2":
                     user = self.login.run()
+                    if user:
+
+                        self.dashboard.redirect(user)
 
                 elif ch == "3":
                     console.print("[bold red]Exiting...[/bold red]")

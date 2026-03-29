@@ -1,0 +1,222 @@
+[
+    {
+        "user": "aditya kumar",
+        "order_id": 341020,
+        "items": [
+            {
+                "order_id": 341020,
+                "name": "Paneer Butter Masala",
+                "qty": 2,
+                "price": 175
+            },
+            {
+                "order_id": 341020,
+                "name": "Paneer Momos",
+                "qty": 2,
+                "price": 50
+            }
+        ],
+        "total": 450,
+        "status": "Delivered",
+        "delivery": "HOME DELIVERY",
+        "order_type": "ONLINE",
+        "city": "patna",
+        "delivery_boy": "aditya kumar"
+    },
+    {
+        "user": "aditya kumar",
+        "order_id": 227725,
+        "items": [
+            {
+                "order_id": 227725,
+                "name": "Paneer Momo",
+                "qty": 2,
+                "price": 60
+            }
+        ],
+        "total": 120,
+        "status": "Delivered",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": "",
+        "delivery_boy": "aditya kumar"
+    },
+    {
+        "user": "abhishek kumar",
+        "order_id": 607294,
+        "items": [
+            {
+                "order_id": 607294,
+                "name": "Paneer Butter Masala",
+                "qty": 2,
+                "price": 175
+            }
+        ],
+        "total": 350,
+        "status": "Cancelled",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": ""
+    },
+    {
+        "user": "abhishek kumar",
+        "order_id": 196807,
+        "items": [
+            {
+                "order_id": 196807,
+                "name": "Paneer Pakoda",
+                "qty": 3,
+                "price": 40
+            }
+        ],
+        "total": 120,
+        "status": "Cancelled",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": ""
+    },
+    {
+        "user": "abhishek kumar",
+        "order_id": 592869,
+        "items": [
+            {
+                "order_id": 592869,
+                "name": "Paneer Butter Masala",
+                "qty": 2,
+                "price": 175
+            }
+        ],
+        "total": 350,
+        "status": "Delivered",
+        "delivery": "HOME DELIVERY",
+        "order_type": "ONLINE",
+        "city": "patna",
+        "chef": "aryan verma",
+        "started_at": "28-03-2026 01:11 PM",
+        "ready_at": "28-03-2026 01:11 PM",
+        "delivery_boy": "abhi"
+    },
+    {
+        "user": "abhishek kumar",
+        "order_id": 896160,
+        "items": [
+            {
+                "order_id": 896160,
+                "name": "Gulab Jamu",
+                "qty": 1,
+                "price": 150
+            }
+        ],
+        "total": 150,
+        "status": "Delivered",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": "",
+        "delivery_boy": "abhishek kumar"
+    },
+    {
+        "user": "aryan verma",
+        "order_id": 293462,
+        "items": [
+            {
+                "order_id": 293462,
+                "name": "Paneer Pizza",
+                "qty": 2,
+                "price": 120
+            }
+        ],
+        "total": 240,
+        "status": "Cancelled",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": ""
+    },
+    {
+        "user": "aryan verma",
+        "order_id": 707837,
+        "items": [
+            {
+                "order_id": 707837,
+                "name": "Rasmalai",
+                "qty": 2,
+                "price": 30
+            }
+        ],
+        "total": 60,
+        "status": "Delivered",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": "",
+        "delivery_boy": "abhi"
+    },
+    {
+        "user": "abhi",
+        "order_id": 568363,
+        "items": [
+            {
+                "name": "Rasmalai",
+                "qty": 2,
+                "price": 30
+            }
+        ],
+        "total": 60,
+        "status": "Cancelled",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": ""
+    },
+    {
+        "user": "abhishek",
+        "order_id": 796402,
+        "items": [
+            {
+                "order_id": 796402,
+                "name": "Paneer Berger",
+                "qty": 2,
+                "price": 50
+            }
+        ],
+        "total": 100,
+        "status": "Cancelled",
+        "delivery": "HOME DELIVERY",
+        "order_type": "ONLINE",
+        "city": "patna"
+    },
+    {
+        "user": "abhishek",
+        "order_id": 436864,
+        "items": [
+            {
+                "name": "Cheese Burger",
+                "qty": 4,
+                "price": 50
+            }
+        ],
+        "total": 200,
+        "status": "Cancelled",
+        "delivery": "DINE-IN",
+        "order_type": "OFFLINE",
+        "city": ""
+    },
+    {
+        "user": "abhishek",
+        "order_id": 590196,
+        "items": [
+            {
+                "order_id": 590196,
+                "name": "Kheer",
+                "qty": 3,
+                "price": 25
+            }
+        ],
+        "total": 75,
+        "status": "Delivered",
+        "delivery": "HOME DELIVERY",
+        "order_type": "ONLINE",
+        "city": "patna",
+        "chef": "abhi",
+        "started_at": "28-03-2026 09:34 PM",
+        "ready_at": "28-03-2026 09:34 PM",
+        "delivery_boy": "abhi"
+    }
+]

@@ -21,7 +21,7 @@
         "bike": "n",
         "license": "n",
         "delivery": false,
-        "role": "chef"
+        "role": "admin"
     },
     {
         "id": "567818",
@@ -70,5 +70,102 @@
         "license": "y",
         "delivery": true,
         "role": "staff"
+    },
+    {
+        "id": "548505",
+        "name": "Jayant Kumar",
+        "username": "jk@123",
+        "password": "123456",
+        "phone": "+915445789876",
+        "email": "Jk@gmail.com",
+        "aadhar": "987899876545",
+        "pan": "PSKAN1218K",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": 2,
+        "company": "Zomato",
+        "qualification": "10th",
+        "languages": [
+            "Hindi"
+        ],
+        "computer_skills": "Excel",
+        "bike": "y",
+        "license": "y",
+        "delivery": true,
+        "role": "delivery_staff"
+    },
+    {
+        "id": "629814",
+        "name": "Suraj Kumar",
+        "username": "sk@1234",
+        "password": "123456",
+        "phone": "+918778900965",
+        "email": "sk@gmail.com",
+        "aadhar": "213456654378",
+        "pan": "PAKSL9876U",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": null,
+        "company": null,
+        "qualification": "10th,12th",
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "computer_skills": "Excel, Ms word",
+        "bike": "y",
+        "license": "n",
+        "delivery": false,
+        "role": "manager"
+    },
+    {
+        "id": "424399",
+        "name": "Aditya Kumar",
+        "username": "adk@123",
+        "password": "123456",
+        "phone": "+912332788765",
+        "email": "adk@gmail.com",
+        "aadhar": "099087654321",
+        "pan": "KLHJK1908H",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": null,
+        "company": null,
+        "qualification": "10th",
+        "languages": [
+            "English"
+        ],
+        "computer_skills": null,
+        "bike": "n",
+        "license": "n",
+        "delivery": false,
+        "role": "user"
+    },
+    {
+        "id": "212976",
+        "name": "Vivek Kumar",
+        "username": "vk@123",
+        "password": "123456",
+        "phone": "+914554986543",
+        "email": "vk@gmail.com",
+        "aadhar": "988900987654",
+        "pan": "BHJKR5665S",
+        "country": "India",
+        "state": "Bihar",
+        "address": "Mirganj",
+        "experience": null,
+        "company": null,
+        "qualification": "10th",
+        "languages": [
+            "Hindi"
+        ],
+        "computer_skills": "Python",
+        "bike": "n",
+        "license": "n",
+        "delivery": false,
+        "role": "chef"
     }
 ]

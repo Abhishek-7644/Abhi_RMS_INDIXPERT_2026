@@ -1,0 +1,1712 @@
+[
+    {
+        "id": 1,
+        "name": "Rasmalai",
+        "category": "dessert",
+        "price": 30,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 2,
+        "name": "Gulab Jamu",
+        "category": "dessert",
+        "price": 150,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 3,
+        "name": "Jalebi",
+        "category": "dessert",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 4,
+        "name": "Kheer",
+        "category": "dessert",
+        "price": 25,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 5,
+        "name": "Gajar Ka Halwa",
+        "category": "dessert",
+        "price": 45,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 6,
+        "name": "Moong Dal Halwa",
+        "category": "dessert",
+        "price": 40,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 15,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 7,
+        "name": "Barfi",
+        "category": "dessert",
+        "price": 20,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 8,
+        "name": "Laddu",
+        "category": "dessert",
+        "price": 15,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 9,
+        "name": "Peda",
+        "category": "dessert",
+        "price": 15,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 10,
+        "name": "Malpua",
+        "category": "dessert",
+        "price": 15,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 11,
+        "name": "Kulfi",
+        "category": "dessert",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 12,
+        "name": "Ice Cream",
+        "category": "dessert",
+        "price": 40,
+        "price_map": null,
+        "rating": 5.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 13,
+        "name": "Chocolate Cake",
+        "category": "dessert",
+        "price": 75,
+        "price_map": null,
+        "rating": 5.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 14,
+        "name": "Brownie",
+        "category": "dessert",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 15,
+        "name": "Cheese cake",
+        "category": "dessert",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 16,
+        "name": "Donut",
+        "category": "dessert",
+        "price": 60,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 17,
+        "name": "Pudding",
+        "category": "dessert",
+        "price": 70,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 18,
+        "name": "Falooda",
+        "category": "dessert",
+        "price": 150,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 19,
+        "name": "Shrikhand",
+        "category": "dessert",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 20,
+        "name": "Banana Shake",
+        "category": "dessert",
+        "price": 100,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 21,
+        "name": "Apple Juice",
+        "category": "dessert",
+        "price": 100,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 22,
+        "name": "Milk Shake",
+        "category": "dessert",
+        "price": 120,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 23,
+        "name": "Mix Fruit Juice",
+        "category": "dessert",
+        "price": 200,
+        "price_map": null,
+        "rating": 5.0,
+        "time": 25,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 24,
+        "name": "Sooji Halwa",
+        "category": "dessert",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 25,
+        "name": "Sewaaiyaan",
+        "category": "dessert",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 26,
+        "name": "KalaKand",
+        "category": "dessert",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 27,
+        "name": "Kajoo Katli",
+        "category": "dessert",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 28,
+        "name": "Rabri",
+        "category": "dessert",
+        "price": 50,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 29,
+        "name": "Son Papdi",
+        "category": "dessert",
+        "price": 25,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 30,
+        "name": "Rasgulla",
+        "category": "dessert",
+        "price": 20,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 31,
+        "name": "Paneer Butter Masala",
+        "category": "veg",
+        "price": 175,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 32,
+        "name": "Palak Paneer",
+        "category": "veg",
+        "price": 150,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 33,
+        "name": "Chole Bhature",
+        "category": "veg",
+        "price": 40,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 34,
+        "name": "Rajma Chawal",
+        "category": "veg",
+        "price": 60,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 35,
+        "name": "Chawal Dal",
+        "category": "veg",
+        "price": 150,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 36,
+        "name": "Veg Biryani",
+        "category": "veg",
+        "price": 100,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 37,
+        "name": "Shahi Paneer",
+        "category": "veg",
+        "price": 100,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 38,
+        "name": "Puri Sabji",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 39,
+        "name": "Aaloo Gobi",
+        "category": "veg",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 40,
+        "name": "Baingan Bharta",
+        "category": "veg",
+        "price": 30,
+        "price_map": null,
+        "rating": 2.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 41,
+        "name": "Veg Pulav",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 42,
+        "name": "Dal Tadka",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 43,
+        "name": "Dal Makhani",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 2.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 44,
+        "name": "Kadhi Pakoda",
+        "category": "veg",
+        "price": 30,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 45,
+        "name": "Chwal Curry",
+        "category": "veg",
+        "price": 60,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 46,
+        "name": "Bhindi Masala",
+        "category": "veg",
+        "price": 80,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 47,
+        "name": "Matar Paneer",
+        "category": "veg",
+        "price": 90,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 48,
+        "name": "Aaloo Paratha",
+        "category": "veg",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 49,
+        "name": "Tandoori Roti",
+        "category": "veg",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 50,
+        "name": "Roti Sabji",
+        "category": "veg",
+        "price": 60,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 51,
+        "name": "Paratha Bhunjiya",
+        "category": "veg",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 52,
+        "name": "Butter Naan",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 53,
+        "name": "Butter Roti",
+        "category": "veg",
+        "price": 100,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 54,
+        "name": "Jeera Rice",
+        "category": "veg",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 55,
+        "name": "Chilli Paneer",
+        "category": "veg",
+        "price": 90,
+        "price_map": null,
+        "rating": 2.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 56,
+        "name": "Roti Chhole",
+        "category": "veg",
+        "price": 60,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 57,
+        "name": "Idli Dosa, Sambhar",
+        "category": "veg",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 58,
+        "name": "Sandwich",
+        "category": "veg",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 59,
+        "name": "Litti Sabji",
+        "category": "veg",
+        "price": 50,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 60,
+        "name": "Manchurian",
+        "category": "veg",
+        "price": 80,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 61,
+        "name": "Samosa",
+        "category": "snacks",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 62,
+        "name": "Aaloo Tikki",
+        "category": "snacks",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 63,
+        "name": "Bread Pakoda",
+        "category": "snacks",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 64,
+        "name": "Paneer Pakoda",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 65,
+        "name": "Veg Cutlet",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 66,
+        "name": "French Fries",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 67,
+        "name": "Veg Spring Rolls",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 2.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 68,
+        "name": "Veg Rolls",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 69,
+        "name": "Veg Momos",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 70,
+        "name": "Paneer Momos",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 71,
+        "name": "Hara Bhara Kabab",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 72,
+        "name": "Dahi Vada",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 2.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 73,
+        "name": "Pani Puri",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 74,
+        "name": "Bhel Puri",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 75,
+        "name": "Sev Puri",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 76,
+        "name": "Paneer Momo",
+        "category": "snacks",
+        "price": 60,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 91,
+        "name": "Coca Cola",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250 ml": 20
+        },
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 92,
+        "name": "Coca Cola",
+        "category": "drinks",
+        "price": 200,
+        "price_map": {
+            "500 ml": 30
+        },
+        "rating": 3.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 93,
+        "name": "Coca Cola",
+        "category": "drinks",
+        "price": 200,
+        "price_map": {
+            "750 ml": 40
+        },
+        "rating": 3.0,
+        "time": 30,
+        "available": true,
+        "combo": true
+    },
+    {
+        "id": 94,
+        "name": "Sprite",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250ml": 20
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 95,
+        "name": "Sprite",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750 ml": 40
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 96,
+        "name": "Sprite",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1 l": 50
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 97,
+        "name": "Fanta",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750ml": 40
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 98,
+        "name": "Fanta",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1 li": 50
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 99,
+        "name": "Mazza",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750 ml": 50
+        },
+        "rating": 4.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 100,
+        "name": "Mazza",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1l": 60
+        },
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 110,
+        "name": "Limca",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250ml": 20
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 101,
+        "name": "Limca",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750 ml": 40
+        },
+        "rating": 3.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 102,
+        "name": "Pepsi",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250ml": 20
+        },
+        "rating": 3.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 103,
+        "name": "Pepsi",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750 ml": 40
+        },
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 104,
+        "name": "Pepsi",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1l": 50
+        },
+        "rating": 4.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 105,
+        "name": "Pepsi",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "2l": 85
+        },
+        "rating": 4.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 106,
+        "name": "Mountain Dew",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250ml": 20
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 107,
+        "name": "Mountain Dew",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750ml": 40
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 108,
+        "name": "Mountain Dew",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1l": 50
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 109,
+        "name": "Mineral Water",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "500 ml": 10
+        },
+        "rating": 2.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 111,
+        "name": "Mineral Water",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1l": 20
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 112,
+        "name": "Thums Up",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "250ml": 20
+        },
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 113,
+        "name": "Thums Up",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "750 ml": 40
+        },
+        "rating": 3.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 114,
+        "name": "Thums Up",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "1 L": 50
+        },
+        "rating": 4.0,
+        "time": 2,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 115,
+        "name": "Cold Coffee",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "small": 80
+        },
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 116,
+        "name": "Hot Coffee",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "Medium": 100
+        },
+        "rating": 3.0,
+        "time": 3,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 117,
+        "name": "Cold Coffee",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "Large": 150
+        },
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 118,
+        "name": "Hot Coffee",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "Large": 150
+        },
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 119,
+        "name": "Green Tea",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "Small": 30
+        },
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 120,
+        "name": "Green Tea",
+        "category": "drinks",
+        "price": 0,
+        "price_map": {
+            "Large": 60
+        },
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 77,
+        "name": "Dhokla",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 78,
+        "name": "Kachori",
+        "category": "snacks",
+        "price": 20,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 5,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 79,
+        "name": "Paav Bhaji",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 80,
+        "name": "Veg Pizza",
+        "category": "snacks",
+        "price": 100,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 81,
+        "name": "Paneer Pizza",
+        "category": "snacks",
+        "price": 120,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 82,
+        "name": "Paneer Berger",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 83,
+        "name": "Papdi Chat",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 84,
+        "name": "Aaloo Chat",
+        "category": "snacks",
+        "price": 30,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 85,
+        "name": "Cheese Burger",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 86,
+        "name": "Egg Roll",
+        "category": "snacks",
+        "price": 50,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 87,
+        "name": "Chicken Pakoda",
+        "category": "snacks",
+        "price": 40,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 88,
+        "name": "Swarma",
+        "category": "snacks",
+        "price": 80,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 89,
+        "name": "Fried Chicken",
+        "category": "snacks",
+        "price": 60,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 90,
+        "name": "Sandwich",
+        "category": "snacks",
+        "price": 70,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 121,
+        "name": "Chicken Curry",
+        "category": "nonveg",
+        "price": 180,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 10,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 122,
+        "name": "Butter Chicken",
+        "category": "nonveg",
+        "price": 220,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 123,
+        "name": "Chicken Korma",
+        "category": "nonveg",
+        "price": 210,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 124,
+        "name": "Chicken Do Pyaaz",
+        "category": "nonveg",
+        "price": 200,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 125,
+        "name": "Chicken Handi",
+        "category": "nonveg",
+        "price": 230,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 126,
+        "name": "Motton Curry",
+        "category": "nonveg",
+        "price": 280,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 127,
+        "name": "Motton Rogan Josh",
+        "category": "nonveg",
+        "price": 280,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 30,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 128,
+        "name": "Motton Korma",
+        "category": "nonveg",
+        "price": 270,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 129,
+        "name": "Fish Curry",
+        "category": "nonveg",
+        "price": 220,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 130,
+        "name": "Fish Fry",
+        "category": "nonveg",
+        "price": 200,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 131,
+        "name": "\tEgg Curry",
+        "category": "nonveg",
+        "price": 140,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 132,
+        "name": "Egg Masala",
+        "category": "nonveg",
+        "price": 150,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 133,
+        "name": "Chicken Biryani",
+        "category": "nonveg",
+        "price": 200,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 134,
+        "name": "Motton Biryani",
+        "category": "nonveg",
+        "price": 300,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 30,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 135,
+        "name": "Egg Biryani",
+        "category": "nonveg",
+        "price": 160,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 136,
+        "name": "Chicken Fried Rice",
+        "category": "nonveg",
+        "price": 150,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 137,
+        "name": "Egg Fried Rice",
+        "category": "nonveg",
+        "price": 130,
+        "price_map": null,
+        "rating": 5.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 138,
+        "name": "Chicken Tandoori",
+        "category": "nonveg",
+        "price": 250,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 139,
+        "name": "Chicken seekh",
+        "category": "nonveg",
+        "price": 220,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 140,
+        "name": "Prawn Curry",
+        "category": "nonveg",
+        "price": 300,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 141,
+        "name": "Prawn Fry",
+        "category": "nonveg",
+        "price": 280,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 15,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 142,
+        "name": "Chicken Lolly Pop",
+        "category": "nonveg",
+        "price": 180,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 15,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 143,
+        "name": "Grilled Chicken",
+        "category": "nonveg",
+        "price": 240,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 15,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 144,
+        "name": "Roast Chicken",
+        "category": "nonveg",
+        "price": 230,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 145,
+        "name": "Chicken Stew",
+        "category": "nonveg",
+        "price": 200,
+        "price_map": null,
+        "rating": 3.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 146,
+        "name": "Chicken Keema",
+        "category": "nonveg",
+        "price": 190,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 147,
+        "name": "Motton Keema",
+        "category": "nonveg",
+        "price": 260,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 148,
+        "name": "Egg Bhurji",
+        "category": "nonveg",
+        "price": 120,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 149,
+        "name": "Chicken Malai",
+        "category": "nonveg",
+        "price": 220,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 15,
+        "available": true,
+        "combo": false
+    },
+    {
+        "id": 150,
+        "name": "Fish Tikka",
+        "category": "nonveg",
+        "price": 240,
+        "price_map": null,
+        "rating": 4.0,
+        "time": 20,
+        "available": true,
+        "combo": false
+    }
+]

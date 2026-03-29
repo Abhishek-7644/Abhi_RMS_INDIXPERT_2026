@@ -115,5 +115,473 @@
         "message": "'DashboardManager' object has no attribute 'inventory_dashboard'",
         "line": 640,
         "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:11:59",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "could not convert string to float: ']3'",
+        "line": 465,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:21:03",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Falooda'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:25:30",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Mix Fruit Juice'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:28:54",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Sewaiyan'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:42:07",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Chawal Daal'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:49:50",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Dal Makhani'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:50:12",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "could not convert string to float: ''",
+        "line": 465,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:52:54",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "could not convert string to float: ''",
+        "line": 465,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:54:32",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Roti Sabji'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 15:55:36",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "could not convert string to float: ''",
+        "line": 465,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 16:15:47",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Litti Sabji'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-24 16:29:15",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "name 'inventory_menu' is not defined",
+        "line": 748,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-26 10:26:38",
+        "level": "EXCEPTION",
+        "class": "BookingManager",
+        "function": "book_table",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 1749,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BOOKING\\booking_manager.py"
+    },
+    {
+        "time": "2026-03-27 10:50:25",
+        "level": "EXCEPTION",
+        "class": "InventoryManager",
+        "function": "add",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 302,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\INVENTORY\\inventory_manager.py"
+    },
+    {
+        "time": "2026-03-27 10:50:29",
+        "level": "EXCEPTION",
+        "class": "InventoryManager",
+        "function": "update",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 378,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\INVENTORY\\inventory_manager.py"
+    },
+    {
+        "time": "2026-03-27 21:10:46",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'view_earning'",
+        "line": 366,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 21:38:30",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "DashboardManager.view_earnings() takes 0 positional arguments but 1 was given",
+        "line": 384,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 21:39:35",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "DashboardManager.view_earnings() takes 0 positional arguments but 1 was given",
+        "line": 384,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 21:56:31",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "DashboardManager.view_earnings() takes 0 positional arguments but 1 was given",
+        "line": 384,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:00:11",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "cannot access local variable 'OrderManager' where it is not associated with a value",
+        "line": 381,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:00:40",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "DashboardManager.view_earnings() takes 0 positional arguments but 1 was given",
+        "line": 384,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:19:27",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 382,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:19:50",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 387,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:20:33",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 382,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:20:49",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 387,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:21:41",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 414,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:22:08",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 418,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:31:55",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 382,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:32:16",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 414,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:39:34",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 414,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:40:00",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 418,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:40:29",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 382,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:40:46",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 387,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:47:07",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 382,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:47:42",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 387,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 22:48:00",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'self_call'",
+        "line": 415,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-27 23:38:53",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "update_item",
+        "message": "invalid literal for int() with base 10: 'Veg Noodle'",
+        "line": 528,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 00:23:49",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "inventory_staff_menu() takes 0 positional arguments but 1 was given",
+        "line": 744,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\DASHBOARD\\dashboard_manager.py"
+    },
+    {
+        "time": "2026-03-28 11:28:37",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 11:36:07",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "could not convert string to float: 'jasj'",
+        "line": 465,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 11:52:08",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Papdi Chat'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 12:07:43",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "add_item",
+        "message": "invalid literal for int() with base 10: 'Motton Biryani'",
+        "line": 437,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 14:15:44",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'redirect'",
+        "line": 39,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-28 14:16:27",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'redirect'",
+        "line": 39,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-28 14:22:06",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'redirect'",
+        "line": 39,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-28 14:22:25",
+        "level": "EXCEPTION",
+        "class": "AuthMenu",
+        "function": "start",
+        "message": "'DashboardManager' object has no attribute 'redirect'",
+        "line": 39,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\AUTH\\menu.py"
+    },
+    {
+        "time": "2026-03-28 14:42:07",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "delete_item",
+        "message": "invalid literal for int() with base 10: 'Batasa'",
+        "line": 563,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 14:42:35",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "delete_item",
+        "message": "invalid literal for int() with base 10: 'Batasa'",
+        "line": 563,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 14:42:47",
+        "level": "EXCEPTION",
+        "class": "MenuManager",
+        "function": "update_item",
+        "message": "invalid literal for int() with base 10: 'Batasa'",
+        "line": 528,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\MENU\\menu_manager.py"
+    },
+    {
+        "time": "2026-03-28 20:04:16",
+        "level": "EXCEPTION",
+        "class": "BookingManager",
+        "function": "book_table",
+        "message": "'table'",
+        "line": 383,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BOOKING\\booking_manager.py"
+    },
+    {
+        "time": "2026-03-28 20:56:58",
+        "level": "EXCEPTION",
+        "class": "PaymentManager",
+        "function": "pay",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 235,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BILLING\\payment_menu.py"
+    },
+    {
+        "time": "2026-03-28 21:04:15",
+        "level": "EXCEPTION",
+        "class": "PaymentManager",
+        "function": "pay",
+        "message": "invalid literal for int() with base 10: ''",
+        "line": 235,
+        "file": "d:\\Abhi_RMS_INDIXPERT_2026\\APP\\BILLING\\payment_menu.py"
     }
 ]

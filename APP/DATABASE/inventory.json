@@ -1,0 +1,412 @@
+[
+    {
+        "name": "Paneer",
+        "qty": 10,
+        "category": "Veg"
+    },
+    {
+        "name": "Mix Veg",
+        "qty": 3,
+        "category": "Veg"
+    },
+    {
+        "name": "Aloo Gobi",
+        "qty": 7,
+        "category": "Veg"
+    },
+    {
+        "name": "Palak Paneer",
+        "qty": 2,
+        "category": "Veg",
+        "stock": 0
+    },
+    {
+        "name": "Matar Paneer",
+        "qty": 6,
+        "category": "Veg",
+        "stock": 4
+    },
+    {
+        "name": "Veg Biryani",
+        "qty": 12,
+        "category": "Veg"
+    },
+    {
+        "name": "Dal Tadka",
+        "qty": 4,
+        "category": "Veg"
+    },
+    {
+        "name": "Dal Fry",
+        "qty": 9,
+        "category": "Veg"
+    },
+    {
+        "name": "Kadai Paneer",
+        "qty": 5,
+        "category": "Veg"
+    },
+    {
+        "name": "Bhindi Masala",
+        "qty": 3,
+        "category": "Veg"
+    },
+    {
+        "name": "Veg Kofta",
+        "qty": 8,
+        "category": "Veg"
+    },
+    {
+        "name": "Chole",
+        "qty": 6,
+        "category": "Veg"
+    },
+    {
+        "name": "Rajma",
+        "qty": 2,
+        "category": "Veg"
+    },
+    {
+        "name": "Veg Pulao",
+        "qty": 11,
+        "category": "Veg"
+    },
+    {
+        "name": "Tandoori Roti",
+        "qty": 20,
+        "category": "Veg"
+    },
+    {
+        "name": "Butter Naan",
+        "qty": 15,
+        "category": "Veg"
+    },
+    {
+        "name": "Plain Naan",
+        "qty": 14,
+        "category": "Veg"
+    },
+    {
+        "name": "Jeera Rice",
+        "qty": 10,
+        "category": "Veg"
+    },
+    {
+        "name": "Veg Curry",
+        "qty": 5,
+        "category": "Veg"
+    },
+    {
+        "name": "Stuffed Paratha",
+        "qty": 7,
+        "category": "Veg"
+    },
+    {
+        "name": "Chicken Curry",
+        "qty": 8,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Biryani",
+        "qty": 5,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Tikka",
+        "qty": 6,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Butter Chicken",
+        "qty": 4,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Fish Fry",
+        "qty": 3,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Fish Curry",
+        "qty": 2,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Mutton Curry",
+        "qty": 7,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Mutton Biryani",
+        "qty": 5,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Egg Curry",
+        "qty": 9,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Omelette",
+        "qty": 12,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Roll",
+        "qty": 6,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Shawarma",
+        "qty": 4,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Grilled Chicken",
+        "qty": 3,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Wings",
+        "qty": 10,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Fried Chicken",
+        "qty": 8,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Soup",
+        "qty": 6,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Egg Biryani",
+        "qty": 5,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Chicken Nuggets",
+        "qty": 9,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Fish Fingers",
+        "qty": 4,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Mutton Keema",
+        "qty": 2,
+        "category": "Non-Veg"
+    },
+    {
+        "name": "Rice",
+        "qty": 20,
+        "category": "Grocery"
+    },
+    {
+        "name": "Wheat Flour",
+        "qty": 18,
+        "category": "Grocery"
+    },
+    {
+        "name": "Sugar",
+        "qty": 15,
+        "category": "Grocery"
+    },
+    {
+        "name": "Salt",
+        "qty": 25,
+        "category": "Grocery"
+    },
+    {
+        "name": "Cooking Oil",
+        "qty": 10,
+        "category": "Grocery"
+    },
+    {
+        "name": "Turmeric Powder",
+        "qty": 8,
+        "category": "Grocery"
+    },
+    {
+        "name": "Chilli Powder",
+        "qty": 6,
+        "category": "Grocery"
+    },
+    {
+        "name": "Coriander Powder",
+        "qty": 7,
+        "category": "Grocery"
+    },
+    {
+        "name": "Garam Masala",
+        "qty": 5,
+        "category": "Grocery"
+    },
+    {
+        "name": "Tea Leaves",
+        "qty": 9,
+        "category": "Grocery"
+    },
+    {
+        "name": "Coffee",
+        "qty": 4,
+        "category": "Grocery"
+    },
+    {
+        "name": "Milk Powder",
+        "qty": 6,
+        "category": "Grocery"
+    },
+    {
+        "name": "Butter",
+        "qty": 3,
+        "category": "Grocery"
+    },
+    {
+        "name": "Cheese",
+        "qty": 5,
+        "category": "Grocery"
+    },
+    {
+        "name": "Curd",
+        "qty": 7,
+        "category": "Grocery"
+    },
+    {
+        "name": "Bread",
+        "qty": 12,
+        "category": "Grocery"
+    },
+    {
+        "name": "Biscuits",
+        "qty": 14,
+        "category": "Grocery"
+    },
+    {
+        "name": "Noodles",
+        "qty": 10,
+        "category": "Grocery"
+    },
+    {
+        "name": "Pasta",
+        "qty": 9,
+        "category": "Grocery"
+    },
+    {
+        "name": "Cornflakes",
+        "qty": 6,
+        "category": "Grocery"
+    },
+    {
+        "name": "Gulab Jamun",
+        "qty": 6,
+        "category": "Sweets"
+    },
+    {
+        "name": "Rasgulla",
+        "qty": 2,
+        "category": "Sweets",
+        "stock": 0
+    },
+    {
+        "name": "Jalebi",
+        "qty": 8,
+        "category": "Sweets"
+    },
+    {
+        "name": "Laddu",
+        "qty": 10,
+        "category": "Sweets"
+    },
+    {
+        "name": "Barfi",
+        "qty": 7,
+        "category": "Sweets"
+    },
+    {
+        "name": "Kaju Katli",
+        "qty": 5,
+        "category": "Sweets"
+    },
+    {
+        "name": "Rasmalai",
+        "qty": 3,
+        "category": "Sweets",
+        "stock": 1
+    },
+    {
+        "name": "Halwa",
+        "qty": 9,
+        "category": "Sweets"
+    },
+    {
+        "name": "Gajar Halwa",
+        "qty": 4,
+        "category": "Sweets"
+    },
+    {
+        "name": "Peda",
+        "qty": 6,
+        "category": "Sweets"
+    },
+    {
+        "name": "Imarti",
+        "qty": 2,
+        "category": "Sweets"
+    },
+    {
+        "name": "Cham Cham",
+        "qty": 5,
+        "category": "Sweets"
+    },
+    {
+        "name": "Kalakand",
+        "qty": 3,
+        "category": "Sweets"
+    },
+    {
+        "name": "Milk Cake",
+        "qty": 4,
+        "category": "Sweets"
+    },
+    {
+        "name": "Balushahi",
+        "qty": 2,
+        "category": "Sweets"
+    },
+    {
+        "name": "Sandesh",
+        "qty": 3,
+        "category": "Sweets"
+    },
+    {
+        "name": "Mysore Pak",
+        "qty": 4,
+        "category": "Sweets"
+    },
+    {
+        "name": "Soan Papdi",
+        "qty": 8,
+        "category": "Sweets"
+    },
+    {
+        "name": "Rabri",
+        "qty": 2,
+        "category": "Sweets"
+    },
+    {
+        "name": "Kheer",
+        "qty": 6,
+        "category": "Sweets",
+        "stock": 0
+    },
+    {
+        "name": "Pulaav",
+        "qty": 20,
+        "category": "Other"
+    }
+]
