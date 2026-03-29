@@ -68,5 +68,75 @@
         "items": ["Gulab Jamun", "Rasmalai", "Ice Cream"],
         "price": 140,
         "time": 15
+    },
+    {
+        "id": 104,
+        "name": "Mini Lunch Combo",
+        "items": ["Rajma", "Rice", "Papad"],
+        "price": 130,
+        "time": 20
+    },
+    {
+        "id": 105,
+        "name": "Evening Snacks Combo",
+        "items": ["Pav Bhaji", "Cold Drink"],
+        "price": 120,
+        "time": 15
+    },
+    {
+        "id": 106,
+        "name": "Tandoori Combo",
+        "items": ["Tandoori Roti", "Paneer Tikka", "Salad"],
+        "price": 200,
+        "time": 30
+    },
+    {
+        "id": 107,
+        "name": "Street Food Combo",
+        "items": ["Chaat", "Golgappa", "Lassi"],
+        "price": 110,
+        "time": 15
+    },
+    {
+        "id": 108,
+        "name": "Premium Veg Combo",
+        "items": ["Shahi Paneer", "Butter Naan", "Rice", "Sweet"],
+        "price": 260,
+        "time": 35
+    },
+    {
+        "id": 109,
+        "name": "Chicken Deluxe Combo",
+        "items": ["Butter Chicken", "Naan", "Rice"],
+        "price": 300,
+        "time": 40
+    },
+    {
+        "id": 110,
+        "name": "Fast Food Combo",
+        "items": ["Pizza Slice", "Burger", "Fries", "Coke"],
+        "price": 200,
+        "time": 20
+    },
+    {
+        "id": 111,
+        "name": "Healthy Combo",
+        "items": ["Salad", "Boiled Veggies", "Juice"],
+        "price": 150,
+        "time": 15
+    },
+    {
+        "id": 112,
+        "name": "Kids Combo",
+        "items": ["Mini Burger", "Fries", "Chocolate Milk"],
+        "price": 130,
+        "time": 15
+    },
+    {
+        "id": 113,
+        "name": "Dinner Special Combo",
+        "items": ["Paneer Lababdar", "Roti", "Rice", "Dessert"],
+        "price": 240,
+        "time": 35
     }
 ]
