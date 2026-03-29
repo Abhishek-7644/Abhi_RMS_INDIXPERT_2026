@@ -1,0 +1,72 @@
+[
+    {
+        "id": 94,
+        "name": "Veg Thali Combo",
+        "items": ["Paneer Butter Masala", "Roti", "Rice", "Salad"],
+        "price": 180,
+        "time": 25
+    },
+    {
+        "id": 95,
+        "name": "North Indian Combo",
+        "items": ["Dal Makhani", "Jeera Rice", "Butter Naan"],
+        "price": 160,
+        "time": 30
+    },
+    {
+        "id": 96,
+        "name": "South Indian Combo",
+        "items": ["Masala Dosa", "Sambar", "Coconut Chutney"],
+        "price": 120,
+        "time": 20
+    },
+    {
+        "id": 97,
+        "name": "Chinese Combo",
+        "items": ["Veg Fried Rice", "Manchurian", "Spring Roll"],
+        "price": 170,
+        "time": 25
+    },
+    {
+        "id": 98,
+        "name": "Snacks Combo",
+        "items": ["Samosa", "Kachori", "Tea"],
+        "price": 80,
+        "time": 15
+    },
+    {
+        "id": 99,
+        "name": "Burger Combo",
+        "items": ["Veg Burger", "French Fries", "Coke"],
+        "price": 150,
+        "time": 15
+    },
+    {
+        "id": 100,
+        "name": "Pizza Combo",
+        "items": ["Margherita Pizza", "Garlic Bread", "Pepsi"],
+        "price": 220,
+        "time": 30
+    },
+    {
+        "id": 101,
+        "name": "Breakfast Combo",
+        "items": ["Aloo Paratha", "Curd", "Pickle", "Tea"],
+        "price": 100,
+        "time": 20
+    },
+    {
+        "id": 102,
+        "name": "Non-Veg Combo",
+        "items": ["Chicken Curry", "Rice", "Roti"],
+        "price": 250,
+        "time": 35
+    },
+    {
+        "id": 103,
+        "name": "Sweet Combo",
+        "items": ["Gulab Jamun", "Rasmalai", "Ice Cream"],
+        "price": 140,
+        "time": 15
+    }
+]
